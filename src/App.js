@@ -2,17 +2,41 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import Navbar from './navbar.js';
+import Ourstory from './our-story.js';
+import Locator from './locator.js';
+import {Menu} from './menu.js';
+import Catering from './catering.js';
+import Footer from './footer.js';
+
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Action Cookies</h2>
+      <div className="container">
+        <div className="Nav">
+          <Navbar/>
         </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+
+        <div className="About">
+          <Ourstory/>
+        </div>
+
+        <div className="Find us">
+          <Locator/>
+        </div>
+
+        <div className="Menu">
+          <Menu/>
+        </div>
+
+        <div className="Catering">
+          <Catering/>
+        </div>
+
+        <div className="Footer">
+          <Footer/>
+        </div>
+
       </div>
     );
   }
