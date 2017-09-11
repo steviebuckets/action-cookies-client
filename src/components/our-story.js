@@ -6,7 +6,7 @@ export default function Ourstory() {
     <div className="container" id="about-section">
       <div className="row" id="about">
         <div className="col-md-12">
-          <h1>What is an Action Cookie?!</h1>
+          <h1>What is an Action Cookie?!!!!</h1>
           <p style={{
             color: "#616161"
           }}>[ak-shuh n] [koo k-ee], ​ˈækʃ(ə)n ˈkʊki</p>

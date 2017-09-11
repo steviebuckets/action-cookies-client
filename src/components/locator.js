@@ -5,7 +5,7 @@ export default function Locator() {
     <div className="locations" id="location">
       <div className="container-fluid" id="cookie-locator"></div>
       <div className="header">
-        <h1>Find us</h1>
+        <h1>Find usss</h1>
       </div>
       <div className="row" id="search">
         <div className="col-md-4">
