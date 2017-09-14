@@ -1,7 +1,7 @@
 <h1>Action Cookies</h1>
 Built with React and Nodejs.
 
-![screen shot 2017-06-26 at 12 02 27 pm](https://user-images.githubusercontent.com/10752805/27556272-c5bb9db6-5a69-11e7-8d4c-d46307ccf6f3.png)
+![cookies](https://user-images.githubusercontent.com/10752805/30455386-94cf56c8-9954-11e7-8ad8-b00564bc0adf.png)
 
 
 ![screen shot 2017-06-26 at 10 48 23 am](https://user-images.githubusercontent.com/10752805/27555789-fd147f28-5a67-11e7-8792-b10addf21972.png)
@@ -12,3 +12,4 @@ Built with React and Nodejs.
 
 <h3>Future Improvements</h3>
 <p>Replace photos with higher resolution images after client completes photo shoot. React Native.</p>
+
